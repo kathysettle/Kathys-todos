@@ -2,3 +2,4 @@ MOT car
 insure car
 tax car
 service car
+wash car
