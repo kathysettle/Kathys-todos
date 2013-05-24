@@ -1,5 +1,3 @@
-onions
-carrots
 steak
 kidney
 pastry
