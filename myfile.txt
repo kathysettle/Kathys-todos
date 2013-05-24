@@ -5,3 +5,5 @@ kidney
 pastry
 red wine
 steak
+chips
+eton mess
